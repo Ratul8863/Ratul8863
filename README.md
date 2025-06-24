@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="banner.png" alt="Banner" width="100%" />
+<img src="_a93d6b8f-b259-493d-b4c6-f799d454a692.jpeg
+A" alt="Banner" width="100%" />
 
 # 👋 Hi, I'm Ratul Saha Roy  
 ### 🚀 Full Stack Web Developer (currently focused on MERN Stack)
