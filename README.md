@@ -14,13 +14,26 @@ I’m currently working on building impactful full-stack web applications with M
 
 ---
 
-# 💫 About Me:
-- 🎯 I’m currently working on: **A full-stack Product Recommendation System (personal project)**
-- 🤝 I’m looking to collaborate on: **Open-source MERN or AI-based projects**
-- 🧠 I’m looking for help with: **Integrating Machine Learning models (just started learning)**
-- 🌱 I’m currently learning: **AI/ML, JWT Authentication, and advanced Tailwind CSS styling**
-- 💬 Ask me about: **React, Firebase Auth, Express.js, MongoDB**
-- Fun fact: I'm addicted to learning new tech—my browser has more tabs than Netflix has shows.
+## 🔭 Currently Working On
+- A full-stack **Product Recommendation System** (personal project)
+
+## 🤝 Open to Collaborate On
+- **Open-source MERN stack projects**
+- **AI/ML-based web applications**
+
+## 🧠 Looking for Help With
+- Integrating **Machine Learning models** into full-stack apps
+
+## 🌱 Currently Learning
+- **AI/ML fundamentals**
+- **JWT Authentication**
+- **Tailwind CSS Pro Styling**
+
+## 💬 Ask Me About
+- **React**, **Firebase Auth**, **Express.js**, **MongoDB**
+
+## ⚡ Fun Fact
+- *I'm addicted to learning new tech—my browser has more tabs than Netflix has shows.*
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ratul-saha-roy)
