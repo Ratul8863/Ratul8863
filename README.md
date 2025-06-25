@@ -14,6 +14,8 @@ I’m currently working on building impactful full-stack web applications with M
 
 ---
 
+# About Me
+
 -🔭 Currently Working On
  A full-stack **Product Recommendation System** (personal project)
 
