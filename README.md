@@ -14,23 +14,22 @@ I’m currently working on building impactful full-stack web applications with M
 
 ---
 
-## 🔭 Currently Working On
-- A full-stack **Product Recommendation System** (personal project)
+-🔭 Currently Working On
+ A full-stack **Product Recommendation System** (personal project)
 
-## 🤝 Open to Collaborate On
-- **Open-source MERN stack projects**
-- **AI/ML-based web applications**
+- 🤝 Open to Collaborate On
+Open-source MERN or AI-based projects
 
-## 🧠 Looking for Help With
-- Integrating **Machine Learning models** into full-stack apps
+- 🧠 Looking for Help With
+  Integrating Machine Learning models (just started learning)
 
-## 🌱 Currently Learning
-- **AI/ML fundamentals**
-- **JWT Authentication**
-- **Tailwind CSS Pro Styling**
+- 🌱 Currently Learning
+  AI/ML fundamentals ,
+  JWT Authentication ,
+  Tailwind CSS Pro Styling ,
 
-## 💬 Ask Me About
-- **React**, **Firebase Auth**, **Express.js**, **MongoDB**
+- 💬 Ask Me About
+ **React**, **Firebase Auth**, **Express.js**, **MongoDB**
 
 ## ⚡ Fun Fact
 - *I'm addicted to learning new tech—my browser has more tabs than Netflix has shows.*
