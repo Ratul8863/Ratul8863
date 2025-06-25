@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratul Saha Roy</h1>
-<h3 align="center">A passionate Full Stack Developer building impactful MERN stack web applications, Debater, and Tech Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate Full Stack Developer building impactful MERN stack web applications from Bangladesh </h3>
 
 <p align="center">
   <img src="banner.png.png" alt="Ratul Saha Roy Banner" width="100%" />
