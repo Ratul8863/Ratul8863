@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ratul Saha Roy</h1>
-<h3 align="center">A passionate Full Stack Developer, Debater, and Tech Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate Full Stack Developer building impactful MERN stack web applications, Debater, and Tech Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Ratul Saha Roy Banner" width="100%" />
+  <img src="/banner.png" alt="Ratul Saha Roy Banner" width="100%" />
 </p>
 
 <p align="center">
 I’m currently working on building impactful full-stack web applications with MERN stack. I’m also learning AI/ML fundamentals and contributing to projects that combine technology with creativity and communication. 🚀
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ratul8863&label=Profile%20views&color=0e75b6&style=flat" alt="Ratul8863" /> </p>
 
