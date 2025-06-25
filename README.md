@@ -21,7 +21,7 @@ I’m currently working on building impactful full-stack web applications with M
 - 🌱 I’m currently learning: **AI/ML, JWT Authentication, and advanced Tailwind CSS styling**
 - 💬 Ask me about: **React, Firebase Auth, Express.js, MongoDB**
 - Fun fact: I'm addicted to learning new tech—my browser has more tabs than Netflix has shows.
-- 
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ratul-saha-roy)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RatulSahaRoy)
