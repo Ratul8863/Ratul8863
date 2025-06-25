@@ -31,7 +31,7 @@ I’m currently working on building impactful full-stack web applications with M
 ### 📫 How to Reach Me
 - Email: **ratulroy8863@gmail.com**
 - LinkedIn: [linkedin.com/in/ratul-saha-roy](https://linkedin.com/in/ratul-saha-roy)
-- Facebook: [facebook.com/ratulroy8863](https://facebook.com/ratulroy8863)
+
 
 ---
 
