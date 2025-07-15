@@ -37,9 +37,10 @@ Open-source MERN or AI-based projects
 - *I'm addicted to learning new tech—my browser has more tabs than Netflix has shows.*
   
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://ratul-saha-roy.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ratul-saha-roy)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RatulSahaRoy)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratulroy8863@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratulroy8863@gmail.com)
 
 ---
 
