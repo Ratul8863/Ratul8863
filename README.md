@@ -14,21 +14,19 @@ I’m currently working on building impactful full-stack web applications with M
 
 ---
 
-# About Me
+### 👨‍💻 About Me
 
--🔭 Currently Working On
- A full-stack **Product Recommendation System** (personal project)
+I'm a passionate and enthusiastic Full Stack Developer with a strong focus on the MERN stack.  
+I enjoy building user-friendly, scalable web applications and exploring new technologies.  
+Currently pursuing a B.Sc. in Computer Science at Metropolitan University.  
+I love solving real-world problems and contributing to meaningful projects.
 
-- 🤝 Open to Collaborate On
-Open-source MERN or AI-based projects
-
-- 🧠 Looking for Help With
-  Integrating Machine Learning models (just started learning)
 
 - 🌱 Currently Learning
   AI/ML fundamentals ,
   JWT Authentication ,
   Tailwind CSS Pro Styling ,
+  Exploring Next.js.
 
 - 💬 Ask Me About
  **React**, **Firebase Auth**, **Express.js**, **MongoDB**
