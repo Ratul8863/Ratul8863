@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer Building Impactful MERN Applications from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="banner.png" alt="Ratul Saha Roy Banner" width="100%" />
+  <img src="banner.png.png" alt="Ratul Saha Roy Banner" width="100%" />
 </p>
 
 <p align="center">
